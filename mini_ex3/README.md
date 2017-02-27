@@ -1,4 +1,4 @@
-![ScreenShot]()
+![ScreenShot](https://github.com/kris03/AP-17/blob/master/mini_ex3/Sk%C3%A6rmbillede%202017-02-27%20kl.%2012.01.07.png)
 
 MY CODING PROCESS
 I was quite happy with the idea of having to make a throbber. Something in motion, animation like.
