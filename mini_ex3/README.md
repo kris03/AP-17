@@ -1,5 +1,7 @@
 ![ScreenShot](https://github.com/kris03/AP-17/blob/master/mini_ex3/Sk%C3%A6rmbillede%202017-02-27%20kl.%2012.01.07.png)
 
+RUN: https://rawgit.com/kris03/AP-17/master/mini_ex3/index.html
+
 MY CODING PROCESS
 I was quite happy with the idea of having to make a throbber. Something in motion, animation like.
 The example from the class was very well explained and I tried it and found it fairly easy to code, based on the good example. 
