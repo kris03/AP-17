@@ -1,3 +1,5 @@
+#Mini exercise 4
+
 For this miniex, I had in mind to make something that somehow could express my opinion about something that I find particularly important and thus make a small program with a greater seriousness than the ones I've made so far. 
 
 Xenophobia and racism scares me and it worries me that many people choose to meet other people with fear, hatred and prejudice rather than an inquisitive and open mind.
