@@ -4,6 +4,8 @@ Xenophobia and racism scares me and it worries me that many people choose to mee
 
 This I have tried to express in my program, in relation to refugees.
 
+![Screenshot] (https://github.com/kris03/AP-17/blob/master/mini_ex4/assets/Sk%C3%A6rmbillede%202017-03-05%20kl.%2023.17.11.png)
+
 In order to 'start' click the mouse on the text, then you can use the arrow keys to the right and left.
 
 [Run the program](https://rawgit.com/kris03/AP-17/master/mini_ex4/index.html)
