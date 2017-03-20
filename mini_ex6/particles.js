@@ -56,5 +56,10 @@ function Particle() {
 		this.updatePrev();
 		}
 		
+		if(this.pos.y < 0) {
+		this.pos.y = height;
+		this.updatePrev();
+	}
+		
 }
 }		
