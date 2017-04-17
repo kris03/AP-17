@@ -5,8 +5,7 @@
 - My chosen API
 
 I have used Giphys API. I have chosen this, after trying with several other different all ended with one error after another. 
-Giphy could both provide visual fun expressions and served. The program should work without the need to download anything. 
-It shows the 25 most trending gifs at the moment.
+Giphy could both provide visual fun expressions and served. The program should work without the need to download anything, but be aware that the browser sometimes blocks the gifs, this can usually be fixed by giving permission to show unsafe content (the little icon left for the URL). The program shows the 25 most trending gifs at the moment.
 
 - My process, using and representing data
 
